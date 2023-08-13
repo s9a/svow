@@ -1,0 +1,13 @@
+:root {
+  background: hotpink;
+  color: black;
+}
+
+:any-link {
+  color: inherit;
+}
+
+::selection {
+  background: black;
+  color: hotpink;
+}
